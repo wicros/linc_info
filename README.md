@@ -1,4 +1,4 @@
-# linc_corp
+# linc_info
 
 How to update SSL Certificate:
 
